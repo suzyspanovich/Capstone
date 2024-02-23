@@ -10,6 +10,7 @@ Users can search for donors with specific combinations of negative letters.
 Requirements:
 Python 3.x
 Pandas
+NumPy
 
 Author:
 Suzy Spanovich
